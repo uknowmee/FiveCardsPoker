@@ -4,6 +4,8 @@ This is my first project in Java I realized during my 3rd study semester. <br/>
 The goal of project was to implement a 5 cards poker server. <br/>
 Whole project is based on java.net Socket communication. <br/>
 
+Enjoy your GAME!
+
 ### 1. How to start the program:
 
     mvn clean install
