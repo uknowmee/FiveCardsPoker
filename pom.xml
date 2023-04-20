@@ -15,7 +15,7 @@
         <module>SocketServer</module>
     </modules>
 
-    <name>SomceCardApp</name>
+    <name>FiveCardsPoker</name>
     <url>http://www.example.com</url>
 
     <dependencies>
