@@ -2,8 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - master
-      - lab_5_project_0.1.0
+      - main
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
